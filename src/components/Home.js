@@ -3,7 +3,7 @@ const Home =()=> {
     return (
         <main className="main">
             <div className="container">
-                <h2>home</h2>
+                <h2>home.</h2>
             </div>
         </main>
     )
